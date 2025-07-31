@@ -1,4 +1,4 @@
-# 🤣 Random Joke Generator
+# 🤣 PunMachine
 
 A simple and fun CLI-based Joke Generator built with **Node.js**. This app fetches random programming jokes from a public API and displays them with styled output in the terminal using `chalk`.
 
